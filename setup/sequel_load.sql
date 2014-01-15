@@ -1,6 +1,6 @@
-CREATE DATABASE phi_delt_cmu;
+CREATE DATABASE nitelit1_pdt2014;
 
-USE phi_delt_cmu;
+USE nitelit1_pdt2014;
 
 CREATE TABLE `users` (
   `id` int(11) NOT NULL AUTO_INCREMENT,

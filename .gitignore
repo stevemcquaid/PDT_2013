@@ -56,3 +56,6 @@ db/*.sqlite3
 
 #auto-updating server on the commit level
 github.php
+
+#server ps configs
+secret.php
