@@ -1,4 +1,4 @@
-CREATE DATABASE nitelit1_pdt2014;
+-- CREATE DATABASE nitelit1_pdt2014;
 
 USE nitelit1_pdt2014;
 
