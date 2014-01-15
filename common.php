@@ -2,7 +2,7 @@
 
     //Database variables
 	$username = "root"; //not in use anymore
-	$password = "ECOH0715"; //not in use anymore
+	$password = "morrison"; //not in use anymore
 	$host = "localhost"; //not in use anymore
 	$dbname = "nitelit1_pdt2014"; //not in use anymore
 
