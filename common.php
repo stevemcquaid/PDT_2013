@@ -1,20 +1,11 @@
 <?php
-
     //Database variables
-	$username = "root"; //not in use anymore
-	$password = "morrison"; //not in use anymore
-	$host = "localhost"; //not in use anymore
-	$dbname = "nitelit1_pdt2014"; //not in use anymore
-
-	//This is a file outside of the git repo for security reasons.
-	//This file OVERWRITES THE DB VARS!!!!!
-    if(file_exists('secret.php')){
-    	// Include the file if on prod || dev
-	    include('secret.php'); 
-	}
-
+	$username = "root";
+	$password = "ECOH0715";
+	$host = "localhost";
+	$dbname = "phi_delt_cmu";
 	
-	$num_hashes = 1337;
+	$num_hashes = 0;
 	$max_image_size = 20000;
 	
 	$e_board = array(  "President",

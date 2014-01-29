@@ -36,8 +36,7 @@ echo "<br><br>"
               <li><a href="mission-statement.html"> Our Mission <?php $_SESSION['curr_page_req'] = "mission-statement.html"?> </a></li>
               <li><a href="facts-figures.html"> Facts and Figures <?php $_SESSION['curr_page_req'] = "facts-figures.html"?> </a></li>
 		  <li><a href="executive-board.php"> Executive Board <?php $_SESSION['curr_page_req'] = "executive-board.php"?> </a></li>
-		  <!--<li><a href="gallery.php"> Gallery <?php $_SESSION['curr_page_req'] = "gallery.php"?> </a></li>
-		  -->
+		  <li><a href="gallery.php"> Gallery <?php $_SESSION['curr_page_req'] = "gallery.php"?> </a></li>
             </ul>
           </li>
         <li class="dropdown">
@@ -48,14 +47,13 @@ echo "<br><br>"
             <li><a href="contact.php"> Contact Us <?php $_SESSION['curr_page_req'] = "contact.php"?> </a></li>
           </ul>
         </li>
-		<!--
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Activities <b class="caret"></b></a>
           <ul class="dropdown-menu">
             <li><a href="#x"> Stuff <?php $_SESSION['curr_page_req'] = "index.php"?> </a></li>
             <li><a href="blog.html"> Newsletter <?php $_SESSION['curr_page_req'] = "blog.html"?> </a></li>
           </ul>
-        </li> -->
+        </li> 
         <li><a href="brothers.php"> Brothers <?php $_SESSION['curr_page_req'] = "brothers.php"?> </a></li>
       </ul>
     </div><!-- /.navbar-collapse -->

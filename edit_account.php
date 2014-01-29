@@ -139,7 +139,7 @@ if (empty($_SESSION['user']))
 							</label>
 							<br>
   			  			    <div class="controls">
-  			  			      <input id="old_pwd" name="pwd" type="text" placeholder="Enter New Password" class="input-xlarge" required="">
+  			  			      <input id="old_pwd" name="old_pwd" type="text" placeholder="Enter Old Password" class="input-xlarge" required="">
   			  			    </div>
 						</div>
 					  </div>
